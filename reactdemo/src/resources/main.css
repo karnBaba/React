@@ -1,0 +1,28 @@
+.navbar-right {
+    float: right!important;
+    margin-right: -10px;
+    margin-top: 10px;
+}
+
+.btn{
+    border-radius: 1px !important;
+}
+
+.leftPadding{
+    padding-left: 10% !important;
+}
+
+@media all and (min-width: 480px) {
+    .login {
+      padding: 60px 0;
+    }
+  
+    .login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+}
+
+.navbar-inverse {
+    border-radius: 0 !important;
+}
